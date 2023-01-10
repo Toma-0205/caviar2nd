@@ -1,0 +1,144 @@
+body {
+  font-family: "Avenir Next";
+  width: auto;
+}
+  
+li {
+  list-style: none;
+}
+  
+.header {
+  background-color: black;
+  color: #FFD600;
+  height: 300px;
+  width:auto;
+}
+
+.header-logo{
+  padding: 20px 630px;
+}
+
+.header-list li {
+  float: left;
+  font-size: 25px;
+  padding: 20px 205px 0px 0px;
+  line-height:1.0;
+  text-align: center;
+}
+
+.br{
+  font-size: 15px;
+}
+
+.text{
+  font-size: 15px;
+  color: #fff;
+}
+
+.main {
+  padding: 0px 80px;
+  background-color: #000000;
+}
+  
+.contents {
+  height: 2335px;
+}
+  
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;  
+}
+  
+.contents-item {
+  float: left;
+  margin-right: 20px;
+  margin-top: 100px;
+  margin-left: 100px;
+  text-align: center;
+}
+  
+.contents-item p {
+  font-size: 30px;
+  /* margin-top: 100px; */
+  display: inline-block;
+  vertical-align: top;
+  color:#FFD600;
+  width:600px;
+  text-align: center;
+}
+
+.contents-item2 {
+  float: left;
+  margin-right: 20px;
+  margin-top: 100px;
+  margin-left: 350px;
+  text-align: center;
+}
+  
+.contents-item2 p {
+  font-size: 30px;
+  /* margin-top: 100px; */
+  /* display: inline-block; */
+  vertical-align: top;
+  color:#FFD600;
+  width:600px;
+  text-align: center;
+}
+
+.contents-item3 {
+  float: left;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-left: 350px;
+  text-align: center;
+}
+  
+.contents-item3 p {
+  font-size: 30px;
+  /* margin-top: 100px; */
+  /* display: inline-block; */
+  vertical-align: top;
+  color:#FFD600;
+  width:600px;
+  text-align: center;
+}
+
+.btn{
+  color: #fff;
+  height: 40px;
+  width: 100px;
+  margin-top: 200px;
+  text-align: center;
+  border: 2px solid transparent;
+  border-color: #B8A95B #B8A95B #B8A95B #B8A95B;
+}
+
+.footer {
+  background-color:#B8A95B;
+  color: #fff;
+  height: 120px;
+}
+  
+.footer-logo {
+  float: left;
+  text-align: center;
+  font-size: 32px;
+  margin-left: 530px;
+}
+  
+.footer-list {
+  float: right;
+  padding-right: 10px;
+}
+  
+.footer-list li {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.text1{
+  font-size: 15px;
+  color: #fff;
+}
